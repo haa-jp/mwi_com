@@ -1,0 +1,41 @@
+[11-Apr-2014 10:52:44 America/Chicago] PHP Warning:  require_once(../control/class.phpmailer.php): failed to open stream: No such file or directory in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 8
+[11-Apr-2014 10:52:44 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../control/class.phpmailer.php' (include_path='.:/opt/bitnami/php/lib/php') in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 8
+[11-Apr-2014 09:18:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 12
+[11-Apr-2014 09:18:38 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 10
+[11-Apr-2014 09:23:09 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 77
+[11-Apr-2014 09:25:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 79
+[11-Apr-2014 09:25:57 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 24
+[11-Apr-2014 09:32:25 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 26
+[11-Apr-2014 09:34:18 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 26
+[11-Apr-2014 09:43:48 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 26
+[11-Apr-2014 09:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 28
+[11-Apr-2014 09:50:41 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 28
+[11-Apr-2014 09:52:47 America/Los_Angeles] PHP Notice:  Undefined variable: mailer_deamon in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 28
+[11-Apr-2014 10:23:58 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 85
+[11-Apr-2014 12:53:34 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[11-Apr-2014 12:56:12 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[11-Apr-2014 12:57:12 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[11-Apr-2014 12:59:46 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[11-Apr-2014 13:22:30 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: name in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 44
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: email in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 45
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: address in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 46
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: city in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 47
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: state in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 48
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: zipcode in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 49
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined index: notes in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 50
+[07-May-2014 09:34:45 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[08-May-2014 14:44:08 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[08-May-2014 14:45:58 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[08-May-2014 14:46:56 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 59
+[08-May-2014 14:51:47 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 60
+[08-May-2014 15:04:26 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 60
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: name in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 44
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: email in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 45
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: phone in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 46
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: address in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 47
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: city in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 48
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: state in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 49
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: zipcode in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 50
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined index: notes in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 51
+[10-Aug-2014 07:05:29 America/Chicago] PHP Notice:  Undefined variable: mesage in /opt/bitnami/apps/wordpress/midwest/inc/system/mail_daemon.php on line 60

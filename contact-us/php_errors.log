@@ -1,0 +1,1 @@
+[11-Apr-2014 08:51:20 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /opt/bitnami/apps/wordpress/midwest/contact-us/index.php on line 20
